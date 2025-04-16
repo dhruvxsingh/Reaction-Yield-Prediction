@@ -71,12 +71,5 @@ python nn.py --layer_size 10 2 \
 --query_size 1 --query_strategy random --init_states_dir init_states/suzuki_simple
 ```
 
-## Contributors
-* [@hampusgs](https://www.github.com/hampusgs)
-* [@SeemonJ](https://github.com/SeemonJ)
-
-## License
-The software is licensed under the MIT license (see LICENSE file), and is free and provided as-is.
-
 ## References
 
