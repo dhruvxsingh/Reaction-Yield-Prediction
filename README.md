@@ -71,5 +71,3 @@ python nn.py --layer_size 10 2 \
 --query_size 1 --query_strategy random --init_states_dir init_states/suzuki_simple
 ```
 
-## References
-
